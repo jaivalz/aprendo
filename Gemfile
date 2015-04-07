@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+#Instalo las gem con bundle install ó bundle update
+# Para instalar los layout rails generate layout:install nombre --force
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.0'
